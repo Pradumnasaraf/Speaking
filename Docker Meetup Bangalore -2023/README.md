@@ -1,4 +1,4 @@
-## Docker Meetup Bangalore December 2024
+## Docker Meetup Bangalore December 2023
 
 - Topic: Review Cycles Are Broken. Here's How To Fix Them
 - Date: 16th December 2023

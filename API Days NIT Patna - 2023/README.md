@@ -4,4 +4,4 @@
 - Date: 15th April 2023
 - Location: NIT Patna, Patna, India
 - Recording: N/A
-- Slides: N/A
+- Slides: [slides](api-days-nit-patna.pdf)

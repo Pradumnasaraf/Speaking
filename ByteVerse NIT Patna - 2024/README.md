@@ -1,4 +1,4 @@
-## SOSS Community Days India 2024 (KubeCon India)
+## ByteVerse NIT Patna
 
 - Topic: Empowering Devs Via Open Source
 - Date: 8th April 2024
