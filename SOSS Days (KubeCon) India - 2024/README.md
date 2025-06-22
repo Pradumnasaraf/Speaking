@@ -4,4 +4,4 @@
 - Date: 10th December 2024
 - Location: New Delhi, India
 - Recording: https://www.youtube.com/watch?v=hRp4PaZ6FS4
-- Slides: [slides](soss.pdf)
+- Slides: [slides](soss-day-india-2024.pdf)
