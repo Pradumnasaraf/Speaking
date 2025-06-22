@@ -4,11 +4,11 @@ As you know, I love speaking about stuff I've learned or am currently learning. 
 
 ## Previous Talks
 
-You will find the decks and recordings of most of my talks here. Each talk has a separate folder containing the deck and a link to the recording (if available).
+You will find the decks and recordings (if recorded and available) of most of my talks folder wise with names of the events in this repository.
 
 ## Speaking at your event
 
-First of all, thank you for considering me as a speaker for your event. I'm excited to learn more about your event and how I can contribute to it. Before we get started, I want to ensure we're aligned on a few important details. This [rider](./rider.md) outlines what I need to deliver the best talk possible while being transparent, accessible, and inclusive. Please go through it before reaching out to me.
+First of all, thank you for considering me as a speaker for your event. I'm excited to learn more about your event and how I can contribute to it. Before we get started, I want to ensure we're aligned on a few important details. This [rider](./RIDER.md) outlines what I need to deliver the best talk possible while being transparent, accessible, and inclusive. Please go through it before reaching out to me.
 
 ## License
 
