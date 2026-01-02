@@ -1,6 +1,6 @@
 # Speaker Rider  
 
-> Last updated: 22 June 2025  
+> Last updated: 1 Jan 2026  
 
 Hi there!  
 
