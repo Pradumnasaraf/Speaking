@@ -1,11 +1,10 @@
 # Speaker Rider  
 
-> Last updated: 1 Jan 2026  
+> Last updated: 15 April 2026  
 
 Hi there!  
 
 I LOVE speaking, and I’m thrilled you’re interested in having me at your event. Before we get started, I want to ensure we’re aligned on a few important details. This rider outlines what I need to deliver the best talk possible while being transparent, accessible, and inclusive.  
-
 
 ## Speaking Topics  
 

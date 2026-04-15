@@ -1,4 +1,4 @@
-## ByteVerse NIT Patna
+## ByteVerse NIT Patna 2024
 
 - Topic: Empowering Devs Via Open Source
 - Date: 8th April 2024
